@@ -1,3 +1,10 @@
 Librerias para proyecto final.
 
 pChart: pChart es un class framework orientado a PHP diseñado para crear gráficos. Los datos se pueden recuperar de consultas SQL, archivos CSV o proporcionados manualmente.
+
+PHP Excel Reader: Pasa y recuperar información de archivos XLS. Lee el formato binario de archivos XLS directamente y puede devolver valores y formatos desde cualquier celda.
+
+Carbon: Una extensión internacional de PHP para DateTime. 
+
+Upload: Este componente simplifica la validación de archivos y la carga.
+
