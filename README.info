@@ -1,1 +1,3 @@
 Librerias para proyecto final.
+
+pChart: pChart es un class framework orientado a PHP diseñado para crear gráficos. Los datos se pueden recuperar de consultas SQL, archivos CSV o proporcionados manualmente.
